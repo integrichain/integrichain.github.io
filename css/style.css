@@ -257,6 +257,13 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+#log {
+	padding: 140px 0;
+}
+
+#log .log-items{
+  font-size: 20px;
+}
 /* Services Section */
 #services {
 	padding: 140px 0;
