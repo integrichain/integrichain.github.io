@@ -257,8 +257,14 @@ hr {
 	margin-top: 20px;
 	margin-bottom: 30px;
 }
+
+#architecture {
+  background-color: #e6e6e6;
+}
+
 #log {
 	padding: 140px 0;
+	background: #f6f6f6;
 }
 
 #log .log-items{
